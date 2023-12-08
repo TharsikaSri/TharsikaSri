@@ -1,6 +1,6 @@
 <div align="center"> <h1 align="center"> Hi There! 👋 </h1> </div>
-<b>Hi, My name is Tharsika. I have a Bachelor's 👩🏽‍🎓 in BSc (Hons) Computer Science (Software Engineering) with a year abroad.
-</b> and I am a striving to become a Data Analyst.<b>
+<b>Hi, My name is Tharsika. I have a degree 👩🏽‍🎓 in BSc (Hons) Computer Science (Software Engineering) with a year abroad.
+</b> 🎯I am a striving to become a Data Analyst. 🎯<b>
   
 <p></p>
 <div align="center"> <h1 align="center"> 🤓 DATA ANALYSIS TOOLS 🤓  </h1> </div>
