@@ -1,17 +1,10 @@
 Passion for data ignites my curiosity, driving me toward the role of a Data Analyst, where I can immerse myself in deciphering its intricate patterns. The thrill of uncovering meaningful insights within datasets fuels my aspiration to excel in transforming raw information into actionable strategies. Transitioning this passion into a career as a Data Analyst allows me to merge my innate curiosity with analytical skills, paving the way to navigate the complexities of data and extract its valuable stories.
 
 
-- 👋 Hi, I’m Tharsika Sri
-- 👩🏽‍🎓 BSc (Hons) Computer Science (Software Engineering) with a year abroad
-- 🌱 Striving to become a Data Analyst
-- 🚀Skills: Excel, Tableau, PowerBI, SQL, Java, Python, R- Numpy, Pandas, Ggplot2
-
-
-
-
 <div align="center"> <h1 align="center"> Hi There! 👋 </h1> </div>
-<b>Hi, My name is Tharsika and I am a seeking to become a Data Analyst.<b>
-
+<b>Hi, My name is Tharsika. I have a Bachelor's 👩🏽‍🎓 in BSc (Hons) Computer Science (Software Engineering) with a year abroad.
+</b> and I am a striving to become a Data Analyst.<b>
+  
 <p></p>
 <div align="center"> <h1 align="center"> 🤓 DATA ANALYSIS TOOLS 🤓  </h1> </div>
 
@@ -44,14 +37,9 @@ Passion for data ignites my curiosity, driving me toward the role of a Data Anal
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://public.tableau.com/app/profile/tharsika.srisenthivel/vizzes">
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
-
-<a href="mailto:">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
-
 </p>
 
 
