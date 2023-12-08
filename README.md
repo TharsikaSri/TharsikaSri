@@ -1,6 +1,3 @@
-Passion for data ignites my curiosity, driving me toward the role of a Data Analyst, where I can immerse myself in deciphering its intricate patterns. The thrill of uncovering meaningful insights within datasets fuels my aspiration to excel in transforming raw information into actionable strategies. Transitioning this passion into a career as a Data Analyst allows me to merge my innate curiosity with analytical skills, paving the way to navigate the complexities of data and extract its valuable stories.
-
-
 <div align="center"> <h1 align="center"> Hi There! 👋 </h1> </div>
 <b>Hi, My name is Tharsika. I have a Bachelor's 👩🏽‍🎓 in BSc (Hons) Computer Science (Software Engineering) with a year abroad.
 </b> and I am a striving to become a Data Analyst.<b>
